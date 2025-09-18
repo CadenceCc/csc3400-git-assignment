@@ -1,3 +1,4 @@
+# Calculator - Version B with improved functions
 import math
 
 def add(a, b):
