@@ -1,4 +1,4 @@
-# Calculator - Version B with improved functions
+# Calculator - Advanced Version with Error Handling and Improved Functions
 import math
 
 def add(a, b):
