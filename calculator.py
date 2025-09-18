@@ -1,4 +1,4 @@
-import math
+# Calculator - Advanced Version with Error Handling and Improved Functions
 
 def add(a, b):
     return a + b
@@ -11,15 +11,5 @@ def multiply(a, b):
 
 def divide(a, b):
     if b == 0:
-        return "Error: Division by zero"
+        return 'Error: Division by zero'
     return a / b
-
-def power(a, b):
-    return a ** b
-
-def square_root(a):
-    if a < 0:
-        return "Error: Cannor take square root of a negative number"
-    return math.sqrt(a)
-        
-
