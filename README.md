@@ -1,4 +1,4 @@
-#My Software Engineering Project
+# Ultimate Calculator App - Original Version
 Cadence Cooper - 1279458
 
-This repository will contain my Git and version control assignment for CSC 3400.
+This is the ORIGINAL repository version with different title.
