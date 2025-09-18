@@ -1,4 +1,4 @@
-# Ultimate Calculator App - Original Version
+# Ultimate Advanced Calculator System
 Cadence Cooper - 1279458
 
-This is the ORIGINAL repository version with different title.
+This repository combines both original and cloned versions with advanced features.
