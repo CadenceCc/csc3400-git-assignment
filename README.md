@@ -1,4 +1,4 @@
-# Advanced Calculator System - Clone Version
+# Ultimate Advanced Calculator System
 Cadence Cooper - 1279458
 
-This is the CLONED repository version with different title.
+This repository combines both original and cloned versions with advanced features.
