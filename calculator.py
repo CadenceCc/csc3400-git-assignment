@@ -17,6 +17,7 @@ def divide(a, b):
 def power(a, b):
     return a ** b
 
+
 def square_root(a):
     if a < 0:
         return "Error: Cannor take square root of a negative number"
